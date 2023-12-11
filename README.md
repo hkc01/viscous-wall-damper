@@ -21,15 +21,12 @@ To get started with this project, you can:
 1. Review the `Mech491_FinalReport_GROUP12.docx.pdf` for a detailed explanation of the project.
 2. Explore the `Earthquake`, `Tracking`, and `Transfer Functions` directories to see the data, analyses, and simulations.
 
-## Contributions
-
-We welcome contributions to this project. Please read through the project guidelines in the `CONTRIBUTING.md` file before submitting your pull requests.
 
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Acknowledgments
-
-- Our gratitude to Koç University for providing the platform to undertake this research.
 - Special thanks to all the project team members and advisors for their insights and dedication.
+
+__This project was done for MECH 491 course at Koc University. The repo can be used as a reference but should not be used for upcoming projects!__
