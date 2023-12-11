@@ -2,7 +2,14 @@
 
 ## Introduction
 
-This repository contains the project files for the MECH491 course at Koç University, focusing on the application of Viscous Wall Dampers (VWDs) to reinforce structures against earthquakes.
+This repository is dedicated to the advancement of seismic resilience through the application of Viscous Wall Dampers (VWDs). The focus of this project has been the meticulous design, simulation, and empirical testing of VWDs to enhance the structural integrity of buildings subjected to seismic forces. VWDs represent a sophisticated approach to energy dissipation, providing a robust defense against the damaging effects of earthquakes. Through rigorous analysis and prototype validation, we have tailored our solutions to meet the specific seismic challenges faced in regions with high seismic risk, such as Istanbul.
+
+
+## Key Findings
+
+- Implementing VWDs can lead to a significant reduction in structural displacements during seismic events.
+- Our scaled prototype tests have confirmed the effectiveness of VWDs, aligning closely with our simulation models.
+- VWDs present a cost-effective solution to enhancing the earthquake resilience of new and existing buildings.
 
 ## Contents
 
@@ -27,6 +34,7 @@ To get started with this project, you can:
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Acknowledgments
+
 - Special thanks to all the project team members and advisors for their insights and dedication.
 
 __This project was done for MECH 491 course at Koc University. The repo can be used as a reference but should not be used for upcoming projects!__
